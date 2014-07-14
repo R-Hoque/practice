@@ -1,0 +1,3 @@
+Second line of text in file2
+Missing line
+added text when already staged
